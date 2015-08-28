@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/phund/magicbox/03_Source/server/app/tmp/tests'
+let g:netrw_dirhist_2='/home/phund/magicbox/03_Source/server/app/tmp'
+let g:netrw_dirhist_3='/home/phund/magicbox/03_Source/server/app/tmp/logs'
+let g:netrw_dirhist_4='/home/phund/magicbox_test/magicbox/03_Source/server/app/View'
+let g:netrw_dirhist_5='/home/phund/magicbox_test/magicbox/03_Source/server/app/View/Admin'
+let g:netrw_dirhist_6='/home/phund/lemanze/application/modules/order'
+let g:netrw_dirhist_7='/home/phund/lemanze/application/modules/order/controllers'
+let g:netrw_dirhist_8='/home/likewise-open/FRAMGIA/ngo.duy.son/.homestead'
